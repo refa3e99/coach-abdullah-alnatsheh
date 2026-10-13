@@ -49,7 +49,7 @@ export const About: React.FC = () => {
               {/* Bottom Card Title Lockup */}
               <div className="absolute bottom-6 left-6 right-6">
                 <div className="text-xs font-semibold uppercase tracking-wider text-[#d4f63d]">
-                  HEAD COACH & FOUNDER
+                  PERSONAL TRAINER
                 </div>
                 <div className="font-display text-xl font-bold text-white tracking-wide">
                   COACH ABDULLAH ALNATSHEH
